@@ -1,0 +1,14 @@
+{
+  "name": "slyphon-desertesque",
+  "version": "0.0.1",
+  "description": "A vscode color theme based on desert256",
+  "main": "themes/my-theme.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "themes"
+  ],
+  "author": "Jonathan Simms",
+  "license": "MIT"
+}
