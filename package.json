@@ -15,7 +15,7 @@
       {
         "label": "Desertesque",
         "uiTheme": "vs-dark",
-        "path": "./themes/Desertesque.tmTheme"
+        "path": "./themes/desertesque.json"
       }
     ]
   },

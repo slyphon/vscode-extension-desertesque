@@ -551,49 +551,91 @@
 		},
 		{
 			"name": "parenthesis",
-			"scope": "meta.brace.round.ts",
+			"scope": "meta.brace.round",
 			"settings": {
 				"foreground": "#A4A6A6"
 			}
 		},
 		{
 			"name": "curly braces",
-			"scope": "punctuation.definition.block.ts",
+			"scope": "punctuation.definition.block",
 			"settings": {
 				"foreground": "#A4A6A6"
 			}
 		},
 		{
 			"name": "comma",
-			"scope": "punctuation.separator.comma.ts",
+			"scope": "punctuation.separator.comma",
 			"settings": {
 				"foreground": "#A4A6A6"
 			}
 		},
 		{
 			"name": "left angle bracket",
-			"scope": "punctuation.definition.typeparameters.begin.ts",
-			"settings": {
-				"foreground": "#A4A6A6"
-			}
-		},
-		{
-			"name": "params open",
-			"scope": "punctuation.definition.parameters.begin.ts",
-			"settings": {
-				"foreground": "#A4A6A6"
-			}
-		},
-		{
-			"name": "params close",
-			"scope": "punctuation.definition.parameters.end.ts",
+			"scope": "punctuation.definition.typeparameters.begin",
 			"settings": {
 				"foreground": "#A4A6A6"
 			}
 		},
 		{
 			"name": "right angle bracket",
-			"scope": "punctuation.definition.typeparameters.end.ts",
+			"scope": "punctuation.definition.typeparameters.end",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "params open",
+			"scope": "punctuation.definition.parameters.begin",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "params close",
+			"scope": "punctuation.definition.parameters.end",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "definition tag begin",
+			"scope": "punctuation.definition.tag.begin",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "definition tag end",
+			"scope": "punctuation.definition.tag.end",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "punctuation section embedded tag begin",
+			"scope": "punctuation.section.embedded.begin",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "punctuation section embedded tag end",
+			"scope": "punctuation.section.embedded",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "punctuation definition parameters begin",
+			"scope": "punctuation.definition.parameters.begin",
+			"settings": {
+				"foreground": "#A4A6A6"
+			}
+		},
+		{
+			"name": "punctuation definition parameters end",
+			"scope": "punctuation.definition.parameters.end",
 			"settings": {
 				"foreground": "#A4A6A6"
 			}
@@ -635,59 +677,80 @@
 			}
 		},
 		{
+			"name": "typescript entity jsx attribute name",
+			"scope": "entity.other.attribute-name.tsx",
+			"settings": {
+				"foreground": "#ccbe94"
+			}
+		},
+		{
 			"name": "typescript type parameters",
-			"scope": "entity.name.type.ts",
+			"scope": "entity.name.type",
 			"settings": {
 				"foreground": "#b39545ff"
 			}
 		},
 		{
+			"name": "typescript type parameters",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#9fcb9d"
+			}
+		},
+		{
 			"name": "typescript type alias",
-			"scope": "entity.name.type.alias.ts",
+			"scope": "entity.name.type.alias",
 			"settings": {
 				"foreground": "#f6ddb0ff"
 			}
 		},
 		{
 			"name": "typescript type interface",
-			"scope": "entity.name.type.interface.ts",
+			"scope": "entity.name.type.interface",
 			"settings": {
 				"foreground": "#f6ddb0ff"
 			}
 		},
 		{
 			"name": "typescript other constant",
-			"scope": "variable.other.constant.ts",
+			"scope": "variable.other.constant",
 			"settings": {
 				"foreground": "#f6ddb0ff"
 			}
 		},
 		{
 			"name": "typescript other constant object",
-			"scope": "variable.other.constant.object.ts",
+			"scope": "variable.other.constant.object",
 			"settings": {
 				"foreground": "#9cb8bbff"
 			}
 		},
 		{
 			"name": "typescript other object",
-			"scope": "variable.other.object.ts",
+			"scope": "variable.other.object",
 			"settings": {
 				"foreground": "#9cb8bbff"
 			}
 		},
 		{
 			"name": "typescript other object property",
-			"scope": "variable.other.object.property.ts",
+			"scope": "variable.other.object.property",
 			"settings": {
 				"foreground": "#9cb8bbff"
 			}
 		},
 		{
 			"name": "typescript other object property",
-			"scope": "meta.object-literal.key.ts",
+			"scope": "meta.object-literal.key",
 			"settings": {
 				"foreground": "#c2c0c0ff"
+			}
+		},
+		{
+			"name": "typescript name tag tsx",
+			"scope": "entity.name.tag.tsx",
+			"settings": {
+				"foreground": "#f6ddb0ff"
 			}
 		},
 		{
