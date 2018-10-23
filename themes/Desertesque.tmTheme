@@ -591,6 +591,72 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>definition tag begin</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag.begin.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A4A6A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>definition tag end</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag.end.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A4A6A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation section embedded tag begin</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.begin.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A4A6A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation section embedded tag end</string>
+			<key>scope</key>
+			<string>punctuation.section.embedded.end.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A4A6A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation definition parameters begin</string>
+			<key>scope</key>
+			<string>punctuation.definition.parameters.begin.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A4A6A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation definition parameters end</string>
+			<key>scope</key>
+			<string>punctuation.definition.parameters.end.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A4A6A6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>right angle bracket</string>
 			<key>scope</key>
 			<string>punctuation.definition.typeparameters.end.ts</string>
@@ -655,6 +721,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#eedd65ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript entity jsx attribute name</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ccbe94</string>
 			</dict>
 		</dict>
 		<dict>
@@ -743,6 +820,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#c2c0c0ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript name tag tsx</string>
+			<key>scope</key>
+			<string>entity.name.tag.tsx</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f6ddb0ff</string>
 			</dict>
 		</dict>
 	</array>
