@@ -2,7 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#272727",
+		"editor.background": "#232323",
 		"editor.foreground": "#cccccc",
 		"editor.lineHighlightBackground": "#ffffff18",
 		"editor.selectionBackground": "#f0e68c4f",
@@ -302,7 +302,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#c2c0c0ff"
+				"foreground": "#d0cccc"
 			}
 		},
 		{
@@ -729,7 +729,7 @@
 			"name": "typescript other object",
 			"scope": "variable.other.object",
 			"settings": {
-				"foreground": "#9cb8bbff"
+				"foreground": "#acbdbf"
 			}
 		},
 		{
@@ -743,7 +743,7 @@
 			"name": "typescript other object property",
 			"scope": "meta.object-literal.key",
 			"settings": {
-				"foreground": "#c2c0c0ff"
+				"foreground": "#d0cccc"
 			}
 		},
 		{
