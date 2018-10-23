@@ -1,4 +1,5 @@
 {
+  "publisher": "slyphon",
   "name": "slyphon-desertesque",
   "version": "0.0.1",
   "description": "A vscode color theme based on desert256",
@@ -9,6 +10,18 @@
   "keywords": [
     "themes"
   ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Desertesque",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Desertesque.tmTheme"
+      }
+    ]
+  },
   "author": "Jonathan Simms",
   "license": "MIT"
 }
