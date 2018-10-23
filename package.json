@@ -1,15 +1,12 @@
 {
-  "publisher": "slyphon",
   "name": "slyphon-desertesque",
-  "version": "0.0.1",
+  "displayName": "Desertesque",
   "description": "A vscode color theme based on desert256",
-  "main": "themes/my-theme.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "publisher": "slyphon",
+  "version": "0.0.1",
+  "engines": {
+		"vscode": "^0.10.1"
   },
-  "keywords": [
-    "themes"
-  ],
   "categories": [
     "Themes"
   ],

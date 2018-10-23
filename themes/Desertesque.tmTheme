@@ -580,6 +580,83 @@
 				<string>#eedd65ff</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript type parameters</string>
+			<key>scope</key>
+			<string>entity.name.type.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b39545ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript type alias</string>
+			<key>scope</key>
+			<string>entity.name.type.alias.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f6ddb0ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript type interface</string>
+			<key>scope</key>
+			<string>entity.name.type.interface.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f6ddb0ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript other constant</string>
+			<key>scope</key>
+			<string>variable.other.constant.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f6ddb0ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript other constant object</string>
+			<key>scope</key>
+			<string>variable.other.constant.object.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9cb8bbff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript other object</string>
+			<key>scope</key>
+			<string>variable.other.object.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9cb8bbff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>typescript other object property</string>
+			<key>scope</key>
+			<string>variable.other.object.property.ts</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9cb8bbff</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>766026CB-703D-4610-B070-8DE07D967C5F</string>
