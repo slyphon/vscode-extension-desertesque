@@ -2,7 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#232323",
+		"editor.background": "#181717",
 		"editor.foreground": "#cccccc",
 		"editor.lineHighlightBackground": "#ffffff18",
 		"editor.selectionBackground": "#f0e68c4f",
@@ -249,7 +249,7 @@
 			"scope": "comment",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#87cfeeff"
+				"foreground": "#1ABFCF"
 			}
 		},
 		{
@@ -279,7 +279,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#B9B389"
+				"foreground": "#ced572e7"
 			}
 		},
 		{
