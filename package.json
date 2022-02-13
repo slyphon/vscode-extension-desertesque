@@ -1,6 +1,7 @@
 {
   "name": "slyphon-desertesque",
   "displayName": "Desertesque",
+  "repository": "https://github.com/slyphon/vscode-extension-desertesque",
   "description": "A vscode color theme based on desert256",
   "publisher": "slyphon",
   "version": "0.0.1",
