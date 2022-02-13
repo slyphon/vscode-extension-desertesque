@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#181717",
 		"editor.foreground": "#cccccc",
-		"editor.lineHighlightBackground": "#ffffff18",
+		"editor.lineHighlightBackground": "#212020",
 		"editor.selectionBackground": "#f0e68c4f",
 		"editorCursor.foreground": "#ffff00",
 		"editorError.border": "#960000",
@@ -67,7 +67,7 @@
 		//"editorIndentGuide.background": "#ffffff40",
 		//"editorInfo.foreground": "#008000",
 		//"editorLineNumber.activeForeground": "#c6c6c6",
-		//"editorLineNumber.foreground": "#858585",
+		"editorLineNumber.foreground": "#AAA127",
 		//"editorLink.activeForeground": "#4e94ce",
 		//"editorMarkerNavigation.background": "#2d2d30",
 		//"editorMarkerNavigationError.background": "#ea4646",
